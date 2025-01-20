@@ -1,0 +1,21 @@
+C:\Users\Alber\OneDrive\Escritorio\INTERFAZ DASHBOARD\HMI_ESP32V1\HMI_ESP32V1\bin\Debug\HMI_ESP32V1.exe.config
+C:\Users\Alber\OneDrive\Escritorio\INTERFAZ DASHBOARD\HMI_ESP32V1\HMI_ESP32V1\bin\Debug\HMI_ESP32V1.exe
+C:\Users\Alber\OneDrive\Escritorio\INTERFAZ DASHBOARD\HMI_ESP32V1\HMI_ESP32V1\bin\Debug\HMI_ESP32V1.pdb
+C:\Users\Alber\OneDrive\Escritorio\INTERFAZ DASHBOARD\HMI_ESP32V1\HMI_ESP32V1\obj\Debug\HMI_ESP32V1.csproj.AssemblyReference.cache
+C:\Users\Alber\OneDrive\Escritorio\INTERFAZ DASHBOARD\HMI_ESP32V1\HMI_ESP32V1\obj\Debug\HMI_ESP32V1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alber\OneDrive\Escritorio\INTERFAZ DASHBOARD\HMI_ESP32V1\HMI_ESP32V1\obj\Debug\HMI_ESP32V1.Form1.resources
+C:\Users\Alber\OneDrive\Escritorio\INTERFAZ DASHBOARD\HMI_ESP32V1\HMI_ESP32V1\obj\Debug\HMI_ESP32V1.Properties.Resources.resources
+C:\Users\Alber\OneDrive\Escritorio\INTERFAZ DASHBOARD\HMI_ESP32V1\HMI_ESP32V1\obj\Debug\HMI_ESP32V1.csproj.GenerateResource.cache
+C:\Users\Alber\OneDrive\Escritorio\INTERFAZ DASHBOARD\HMI_ESP32V1\HMI_ESP32V1\obj\Debug\HMI_ESP32V1.csproj.CoreCompileInputs.cache
+C:\Users\Alber\OneDrive\Escritorio\INTERFAZ DASHBOARD\HMI_ESP32V1\HMI_ESP32V1\obj\Debug\HMI_ESP32V1.exe
+C:\Users\Alber\OneDrive\Escritorio\INTERFAZ DASHBOARD\HMI_ESP32V1\HMI_ESP32V1\obj\Debug\HMI_ESP32V1.pdb
+C:\Users\Alber\OneDrive\Escritorio\HMI_ESP32V1\HMI_ESP32V1\bin\Debug\HMI_ESP32V1.exe.config
+C:\Users\Alber\OneDrive\Escritorio\HMI_ESP32V1\HMI_ESP32V1\bin\Debug\HMI_ESP32V1.exe
+C:\Users\Alber\OneDrive\Escritorio\HMI_ESP32V1\HMI_ESP32V1\bin\Debug\HMI_ESP32V1.pdb
+C:\Users\Alber\OneDrive\Escritorio\HMI_ESP32V1\HMI_ESP32V1\obj\Debug\HMI_ESP32V1.csproj.AssemblyReference.cache
+C:\Users\Alber\OneDrive\Escritorio\HMI_ESP32V1\HMI_ESP32V1\obj\Debug\HMI_ESP32V1.Form1.resources
+C:\Users\Alber\OneDrive\Escritorio\HMI_ESP32V1\HMI_ESP32V1\obj\Debug\HMI_ESP32V1.Properties.Resources.resources
+C:\Users\Alber\OneDrive\Escritorio\HMI_ESP32V1\HMI_ESP32V1\obj\Debug\HMI_ESP32V1.csproj.GenerateResource.cache
+C:\Users\Alber\OneDrive\Escritorio\HMI_ESP32V1\HMI_ESP32V1\obj\Debug\HMI_ESP32V1.csproj.CoreCompileInputs.cache
+C:\Users\Alber\OneDrive\Escritorio\HMI_ESP32V1\HMI_ESP32V1\obj\Debug\HMI_ESP32V1.exe
+C:\Users\Alber\OneDrive\Escritorio\HMI_ESP32V1\HMI_ESP32V1\obj\Debug\HMI_ESP32V1.pdb

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alber\\OneDrive\\Escritorio\\HMI_ESP32V1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FC2E6B-D883-40BF-BB5E-6C4B0E419D67}|HMI_ESP32V1\\HMI_ESP32V1.csproj|C:\\Users\\Alber\\OneDrive\\Escritorio\\HMI_ESP32V1\\hmi_esp32v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FC2E6B-D883-40BF-BB5E-6C4B0E419D67}|HMI_ESP32V1\\HMI_ESP32V1.csproj|solutionrelative:hmi_esp32v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FC2E6B-D883-40BF-BB5E-6C4B0E419D67}|HMI_ESP32V1\\HMI_ESP32V1.csproj|c:\\users\\alber\\onedrive\\escritorio\\hmi_esp32v1\\hmi_esp32v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5FC2E6B-D883-40BF-BB5E-6C4B0E419D67}|HMI_ESP32V1\\HMI_ESP32V1.csproj|solutionrelative:hmi_esp32v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Alber\\OneDrive\\Escritorio\\HMI_ESP32V1\\HMI_ESP32V1\\Form1.cs",
+              "RelativeDocumentMoniker": "HMI_ESP32V1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Alber\\OneDrive\\Escritorio\\HMI_ESP32V1\\HMI_ESP32V1\\Form1.cs",
+              "RelativeToolTip": "HMI_ESP32V1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:44:35.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alber\\OneDrive\\Escritorio\\HMI_ESP32V1\\HMI_ESP32V1\\Form1.cs",
+              "RelativeDocumentMoniker": "HMI_ESP32V1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Alber\\OneDrive\\Escritorio\\HMI_ESP32V1\\HMI_ESP32V1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HMI_ESP32V1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:44:35.62Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
